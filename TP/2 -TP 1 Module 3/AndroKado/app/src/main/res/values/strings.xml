@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroKado</string>
+    <string name="msg_achete">C\'est acheté</string>
+    <string name="msg_a_acheter">Cela reste à acheter</string>
+    <string name="acheter">Acheter</string>
+    <string name="a_acheter">A acheter</string>
+    <string name="description">Une viennoiserie au beurre et au chocolat</string>
+    <string name="article">Pain au chocolat</string>
+    <string name="prix">1.0 €</string>
+    <string name="symbole_euro_prix">%s €</string>
+</resources>
