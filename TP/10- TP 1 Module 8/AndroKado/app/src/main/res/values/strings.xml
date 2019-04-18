@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AndroKado</string>
+    <string name="msg_achete">C\'est acheté</string>
+    <string name="msg_a_acheter">Cela reste à acheter</string>
+    <string name="acheter">Acheter</string>
+    <string name="a_acheter">A acheter</string>
+    <string name="description">Une viennoiserie au beurre et au chocolat</string>
+    <string name="article">Pain au chocolat</string>
+    <string name="prix">1.0 €</string>
+    <string name="symbole_euro_prix">%s €</string>
+	<string name="web_description">lien vers site web</string>
+    <string name="article_not_found">article non trouvé</string>
+    <string name="menu_ajouter">Ajouter</string>
+    <string name="menu_configuration">Configuration</string>
+    <string name="menu_modifier">Modifier</string>
+    <string name="menu_envoyer">Envoyer</string>
+	<string name="tri_par_prix">Tri par prix</string>
+    <string name="prix_par_defaut">Prix par défaut</string>
+    <string name="tri_active">Active</string>
+	<string name="label_nom">Nom :</string>
+    <string name="hint_nom">Nom</string>
+    <string name="label_description">Description :</string>
+    <string name="hint_description">Description</string>
+    <string name="label_url">Url :</string>
+    <string name="hint_url">Url</string>
+    <string name="label_prix">Prix :</string>
+    <string name="hint_prix">Prix</string>
+    <string name="label_envie">Envie :</string>
+    <string name="label_active">Active</string>
+
+    <string name="exception_article_form_get">Vous devez tester le formulaire avant de récupérer l\'article</string>
+    <string name="exception_article_form_save">Vous devez tester le formulaire avant de sauvegarder l\'article</string>
+    <string name="ok">OK</string>
+    <string name="nok">Non</string>
+    <string name="telephone">telephone</string>
+    <string name="alert_permission_contact">Impossible de lancer ce menu sans autorisation</string>
+    <string name="alert_no_application">Aucune application n\'a été trouvée !!</string>
+    <string name="message_body_sms">Voici un cadeau qui me ferait plaisir : %s</string>
+    <string name="erreur_insert_article">Impossible de sauvegarder l\'article !!</string>
+    <string name="msg_update_article">Mise à jour de l\'article</string>
+    <string name="msg_demande_permission_snackbar">Pour accéder aux contacts, veuillez accepter la permission</string>
+    <string name="title_alert_quit">Quitter l\'application ?</string>
+    <string name="msg_alert_quit">Voulez-vous quitter l\'application ?</string>
+</resources>
